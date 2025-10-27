@@ -1,17 +1,12 @@
 export default function Page() {
   return (
-    <body>
-        <header>
-            <h1>hello world</h1>
-        </header>
-
         <main>
             <section>
-                
+              <h2>hello world</h2>
+              <p>jjasdlkfj;alsdkjfdskjkl</p>
             </section>
         </main>
         
-    </body>
 
         
   );
